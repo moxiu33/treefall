@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+issueTrackerURL="https://github.com/moxiu33/treefall/issues"
+
+[[mods]]
+modId="treefall"
+version="1.0"
+displayName="TreeFall Mod"
+description="Makes trees fall when you break them."
+authors="moxiu33"
